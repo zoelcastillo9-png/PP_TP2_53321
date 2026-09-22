@@ -93,3 +93,9 @@ Certificados emitidos.
 Filtrado de actividades mediante genéricos.
 Costos de materiales.
 Generación y envío concurrente de tickets.
+
+## Captura de ejecución
+
+La siguiente captura muestra la ejecución completa del programa y la finalización con código de salida 0.
+
+![Salida por consola](captura_consola.png)
