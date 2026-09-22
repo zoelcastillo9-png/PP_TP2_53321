@@ -73,7 +73,7 @@ src
     ├── EventoUniversitario.java
     ├── Inscripcion.java
     └── Sala.java
-
+```
 #Ejecución
 Clonar el repositorio.
 Abrir el proyecto en IntelliJ IDEA.
